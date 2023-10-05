@@ -1,0 +1,62 @@
+[
+{ 
+"exchangedate":"20.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.8523,"units":1,"rate_per_unit":38.8523,"group":"1","calcdate":"17.03.2023"
+ }
+,{ 
+"exchangedate":"19.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.717,"units":1,"rate_per_unit":38.717,"group":"1","calcdate":"16.03.2023"
+ }
+,{ 
+"exchangedate":"18.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.717,"units":1,"rate_per_unit":38.717,"group":"1","calcdate":"16.03.2023"
+ }
+,{ 
+"exchangedate":"17.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.717,"units":1,"rate_per_unit":38.717,"group":"1","calcdate":"16.03.2023"
+ }
+,{ 
+"exchangedate":"16.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.6183,"units":1,"rate_per_unit":38.6183,"group":"1","calcdate":"15.03.2023"
+ }
+,{ 
+"exchangedate":"15.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":39.2728,"units":1,"rate_per_unit":39.2728,"group":"1","calcdate":"14.03.2023"
+ }
+,{ 
+"exchangedate":"14.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":39.1046,"units":1,"rate_per_unit":39.1046,"group":"1","calcdate":"13.03.2023"
+ }
+,{ 
+"exchangedate":"13.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.7426,"units":1,"rate_per_unit":38.7426,"group":"1","calcdate":"10.03.2023"
+ }
+,{ 
+"exchangedate":"12.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.6201,"units":1,"rate_per_unit":38.6201,"group":"1","calcdate":"09.03.2023"
+ }
+,{ 
+"exchangedate":"11.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.6201,"units":1,"rate_per_unit":38.6201,"group":"1","calcdate":"09.03.2023"
+ }
+,{ 
+"exchangedate":"10.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.6201,"units":1,"rate_per_unit":38.6201,"group":"1","calcdate":"09.03.2023"
+ }
+,{ 
+"exchangedate":"09.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.5671,"units":1,"rate_per_unit":38.5671,"group":"1","calcdate":"08.03.2023"
+ }
+,{ 
+"exchangedate":"08.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":39.0132,"units":1,"rate_per_unit":39.0132,"group":"1","calcdate":"07.03.2023"
+ }
+,{ 
+"exchangedate":"07.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.9126,"units":1,"rate_per_unit":38.9126,"group":"1","calcdate":"06.03.2023"
+ }
+,{ 
+"exchangedate":"06.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.8048,"units":1,"rate_per_unit":38.8048,"group":"1","calcdate":"03.03.2023"
+ }
+,{ 
+"exchangedate":"05.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.7847,"units":1,"rate_per_unit":38.7847,"group":"1","calcdate":"02.03.2023"
+ }
+,{ 
+"exchangedate":"04.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.7847,"units":1,"rate_per_unit":38.7847,"group":"1","calcdate":"02.03.2023"
+ }
+,{ 
+"exchangedate":"03.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.7847,"units":1,"rate_per_unit":38.7847,"group":"1","calcdate":"02.03.2023"
+ }
+,{ 
+"exchangedate":"02.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":39.0754,"units":1,"rate_per_unit":39.0754,"group":"1","calcdate":"01.03.2023"
+ }
+,{ 
+"exchangedate":"01.03.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.8231,"units":1,"rate_per_unit":38.8231,"group":"1","calcdate":"28.02.2023"
+ }
+]
